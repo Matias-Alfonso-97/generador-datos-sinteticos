@@ -1,30 +1,25 @@
 import random
-import json  # 1. Traemos la herramienta para exportar datos
+import json
 
 def generar_cliente():
+    """
+    Genera un diccionario con datos sintéticos aleatorios de un cliente.
+    """
     nombres_posibles = ["Ana", "Carlos", "Beatriz", "David", "Elena"]
-    nombre_elegido = random.choice(nombres_posibles)
-    edad_elegida = random.randint(18, 65)
     
     cliente = {
-        "nombre": nombre_elegido,
-        "edad": edad_elegida
+        "nombre": random.choice(nombres_posibles),
+        "edad": random.randint(18, 65)
     }
     return cliente
 
-# Inicializamos la lista vacía
+# Generación del lote de datos sintéticos
 base_de_datos = []
+for _ in range(100):
+    base_de_datos.append(generar_cliente())
 
-# Iteramos 100 veces
-for i in range(100):
-    nuevo_cliente = generar_cliente()
-    base_de_datos.append(nuevo_cliente)
-
-# --- LAS 3 LÍNEAS NUEVAS AL FINAL DE TODO ---
-
-# 2. Abrimos (o creamos) un archivo en modo escritura ("w" de write)
+# Exportación a formato JSON para consumo del modelo
 with open("clientes_sinteticos.json", "w") as archivo:
-    # 3. Volcamos nuestra lista en el archivo. El indent=4 es para que quede prolijo y legible.
     json.dump(base_de_datos, archivo, indent=4)
 
-print("¡Archivo JSON guardado con éxito en tu carpeta!")
+print("Lote de 100 clientes sintéticos generado y exportado exitosamente.")
