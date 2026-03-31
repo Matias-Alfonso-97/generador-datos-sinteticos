@@ -1,402 +1,702 @@
 [
     {
-        "nombre": "Ana",
-        "edad": 43
-    },
-    {
-        "nombre": "Ana",
-        "edad": 63
-    },
-    {
-        "nombre": "Ana",
-        "edad": 49
-    },
-    {
-        "nombre": "David",
-        "edad": 34
-    },
-    {
-        "nombre": "Elena",
-        "edad": 24
-    },
-    {
-        "nombre": "David",
-        "edad": 19
-    },
-    {
-        "nombre": "Elena",
-        "edad": 56
-    },
-    {
-        "nombre": "Ana",
-        "edad": 26
+        "nombre": "Bruna",
+        "edad": 60,
+        "profesion": "Médica",
+        "salario_ars": 2475817,
+        "esta_jubilado": false
     },
     {
         "nombre": "Carlos",
-        "edad": 39
-    },
-    {
-        "nombre": "David",
-        "edad": 21
-    },
-    {
-        "nombre": "Elena",
-        "edad": 48
+        "edad": 33,
+        "profesion": "Docente",
+        "salario_ars": 1009903,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 43
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 59
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 35
-    },
-    {
-        "nombre": "Ana",
-        "edad": 57
-    },
-    {
-        "nombre": "Elena",
-        "edad": 36
+        "edad": 36,
+        "profesion": "Docente",
+        "salario_ars": 2018611,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 26
+        "edad": 56,
+        "profesion": "Comerciante",
+        "salario_ars": 1134002,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 54,
+        "profesion": "Contador",
+        "salario_ars": 1222202,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 70,
+        "profesion": "Jubilado",
+        "salario_ars": 463784,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Matias",
+        "edad": 38,
+        "profesion": "Docente",
+        "salario_ars": 2284179,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 46,
+        "profesion": "Médica",
+        "salario_ars": 1872261,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 53,
+        "profesion": "Contador",
+        "salario_ars": 909039,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 18,
+        "profesion": "Docente",
+        "salario_ars": 885241,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 33,
+        "profesion": "Comerciante",
+        "salario_ars": 1621176,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 43,
+        "profesion": "Comerciante",
+        "salario_ars": 884822,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 60,
+        "profesion": "Docente",
+        "salario_ars": 1676611,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 70,
+        "profesion": "Jubilado",
+        "salario_ars": 305769,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Matias",
+        "edad": 58,
+        "profesion": "Comerciante",
+        "salario_ars": 846618,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 43,
+        "profesion": "Contador",
+        "salario_ars": 946936,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 43
+        "edad": 19,
+        "profesion": "Contador",
+        "salario_ars": 1976031,
+        "esta_jubilado": false
     },
     {
         "nombre": "Elena",
-        "edad": 21
+        "edad": 48,
+        "profesion": "Médica",
+        "salario_ars": 1297005,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 26,
+        "profesion": "Comerciante",
+        "salario_ars": 2475778,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 56
+        "edad": 62,
+        "profesion": "Comerciante",
+        "salario_ars": 2156429,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 58
+        "nombre": "Elena",
+        "edad": 43,
+        "profesion": "Contador",
+        "salario_ars": 1464675,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 32,
+        "profesion": "Docente",
+        "salario_ars": 2039782,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 38,
+        "profesion": "Contador",
+        "salario_ars": 1882518,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 43
+        "edad": 29,
+        "profesion": "Médica",
+        "salario_ars": 1333861,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 32
+        "nombre": "Matias",
+        "edad": 18,
+        "profesion": "Docente",
+        "salario_ars": 1004695,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 32
+        "nombre": "David",
+        "edad": 31,
+        "profesion": "Médica",
+        "salario_ars": 1821279,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 62,
+        "profesion": "Médica",
+        "salario_ars": 2164427,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Elena",
+        "edad": 24,
+        "profesion": "Contador",
+        "salario_ars": 1535851,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 56,
+        "profesion": "Médica",
+        "salario_ars": 2149847,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 73,
+        "profesion": "Jubilado",
+        "salario_ars": 442577,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Ana",
+        "edad": 46,
+        "profesion": "Contador",
+        "salario_ars": 2083055,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 31,
+        "profesion": "Comerciante",
+        "salario_ars": 978183,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 38
+        "edad": 40,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 2392614,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Ana",
-        "edad": 43
-    },
-    {
-        "nombre": "Ana",
-        "edad": 54
-    },
-    {
-        "nombre": "Ana",
-        "edad": 30
-    },
-    {
-        "nombre": "Ana",
-        "edad": 33
+        "nombre": "Matias",
+        "edad": 18,
+        "profesion": "Docente",
+        "salario_ars": 1082037,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 61
+        "edad": 74,
+        "profesion": "Jubilado",
+        "salario_ars": 350555,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 19,
+        "profesion": "Docente",
+        "salario_ars": 1809820,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 61
+        "edad": 28,
+        "profesion": "Contador",
+        "salario_ars": 2133496,
+        "esta_jubilado": false
     },
     {
-        "nombre": "David",
-        "edad": 26
-    },
-    {
-        "nombre": "Elena",
-        "edad": 36
+        "nombre": "Bruna",
+        "edad": 62,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1092139,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 25
-    },
-    {
-        "nombre": "Elena",
-        "edad": 57
-    },
-    {
-        "nombre": "Elena",
-        "edad": 21
-    },
-    {
-        "nombre": "Elena",
-        "edad": 35
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 49
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 36
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 40
-    },
-    {
-        "nombre": "Elena",
-        "edad": 60
+        "edad": 41,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1689580,
+        "esta_jubilado": false
     },
     {
         "nombre": "David",
-        "edad": 19
+        "edad": 42,
+        "profesion": "Médica",
+        "salario_ars": 2273112,
+        "esta_jubilado": false
     },
     {
         "nombre": "Carlos",
-        "edad": 64
+        "edad": 60,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 872215,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Beatriz",
+        "edad": 68,
+        "profesion": "Jubilado",
+        "salario_ars": 410143,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 66,
+        "profesion": "Jubilado",
+        "salario_ars": 598351,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 54,
+        "profesion": "Contador",
+        "salario_ars": 1041302,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Elena",
+        "edad": 24,
+        "profesion": "Comerciante",
+        "salario_ars": 1910265,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 52,
+        "profesion": "Contador",
+        "salario_ars": 1223440,
+        "esta_jubilado": false
     },
     {
         "nombre": "David",
-        "edad": 43
+        "edad": 68,
+        "profesion": "Jubilado",
+        "salario_ars": 333697,
+        "esta_jubilado": true
     },
     {
         "nombre": "Carlos",
-        "edad": 34
+        "edad": 34,
+        "profesion": "Docente",
+        "salario_ars": 1057056,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 23,
+        "profesion": "Docente",
+        "salario_ars": 1015338,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 19,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1655431,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 60,
+        "profesion": "Docente",
+        "salario_ars": 1180102,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 19,
+        "profesion": "Comerciante",
+        "salario_ars": 1785558,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 42
+        "edad": 42,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1649711,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 43
+        "edad": 53,
+        "profesion": "Comerciante",
+        "salario_ars": 1260113,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 75,
+        "profesion": "Jubilado",
+        "salario_ars": 474550,
+        "esta_jubilado": true
     },
     {
         "nombre": "Ana",
-        "edad": 65
+        "edad": 68,
+        "profesion": "Jubilado",
+        "salario_ars": 572503,
+        "esta_jubilado": true
     },
     {
-        "nombre": "Carlos",
-        "edad": 19
+        "nombre": "Sofi",
+        "edad": 63,
+        "profesion": "Médica",
+        "salario_ars": 1344724,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 27
+        "nombre": "David",
+        "edad": 23,
+        "profesion": "Médica",
+        "salario_ars": 2183672,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 31
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 56
+        "nombre": "Elena",
+        "edad": 46,
+        "profesion": "Comerciante",
+        "salario_ars": 2168751,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 21
-    },
-    {
-        "nombre": "David",
-        "edad": 29
-    },
-    {
-        "nombre": "Elena",
-        "edad": 32
-    },
-    {
-        "nombre": "Elena",
-        "edad": 63
+        "edad": 70,
+        "profesion": "Jubilado",
+        "salario_ars": 349160,
+        "esta_jubilado": true
     },
     {
         "nombre": "Carlos",
-        "edad": 37
+        "edad": 31,
+        "profesion": "Docente",
+        "salario_ars": 1341247,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 36,
+        "profesion": "Médica",
+        "salario_ars": 2426183,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 41,
+        "profesion": "Médica",
+        "salario_ars": 2003209,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 20,
+        "profesion": "Contador",
+        "salario_ars": 2437558,
+        "esta_jubilado": false
     },
     {
         "nombre": "Carlos",
-        "edad": 49
+        "edad": 47,
+        "profesion": "Comerciante",
+        "salario_ars": 1288974,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 56,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1226458,
+        "esta_jubilado": false
     },
     {
         "nombre": "Elena",
-        "edad": 54
+        "edad": 70,
+        "profesion": "Jubilado",
+        "salario_ars": 408721,
+        "esta_jubilado": true
     },
     {
-        "nombre": "David",
-        "edad": 60
+        "nombre": "Carlos",
+        "edad": 52,
+        "profesion": "Médica",
+        "salario_ars": 827583,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 51,
+        "profesion": "Médica",
+        "salario_ars": 2228405,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Elena",
+        "edad": 61,
+        "profesion": "Comerciante",
+        "salario_ars": 1698242,
+        "esta_jubilado": false
     },
     {
         "nombre": "Ana",
-        "edad": 26
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 28
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 20
-    },
-    {
-        "nombre": "David",
-        "edad": 18
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 28
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 48
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 41
-    },
-    {
-        "nombre": "David",
-        "edad": 44
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 63
+        "edad": 33,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 1684842,
+        "esta_jubilado": false
     },
     {
         "nombre": "Elena",
-        "edad": 34
+        "edad": 74,
+        "profesion": "Jubilado",
+        "salario_ars": 335454,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 57,
+        "profesion": "Contador",
+        "salario_ars": 1725955,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Beatriz",
+        "edad": 59,
+        "profesion": "Comerciante",
+        "salario_ars": 1648300,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 70,
+        "profesion": "Jubilado",
+        "salario_ars": 374180,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Ana",
+        "edad": 61,
+        "profesion": "Comerciante",
+        "salario_ars": 2412405,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Ana",
+        "edad": 34,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 953953,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 48,
+        "profesion": "Comerciante",
+        "salario_ars": 957074,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Bruna",
+        "edad": 74,
+        "profesion": "Jubilado",
+        "salario_ars": 545325,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Beatriz",
+        "edad": 38,
+        "profesion": "Médica",
+        "salario_ars": 2382033,
+        "esta_jubilado": false
     },
     {
         "nombre": "Carlos",
-        "edad": 64
+        "edad": 50,
+        "profesion": "Docente",
+        "salario_ars": 1780208,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Beatriz",
+        "edad": 61,
+        "profesion": "Médica",
+        "salario_ars": 855183,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 55,
+        "profesion": "Contador",
+        "salario_ars": 2094392,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "David",
+        "edad": 53,
+        "profesion": "Docente",
+        "salario_ars": 1880476,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 22,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 2426679,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Ana",
+        "edad": 39,
+        "profesion": "Desarrollador IA",
+        "salario_ars": 961996,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Ana",
+        "edad": 74,
+        "profesion": "Jubilado",
+        "salario_ars": 306359,
+        "esta_jubilado": true
     },
     {
         "nombre": "Elena",
-        "edad": 35
+        "edad": 33,
+        "profesion": "Médica",
+        "salario_ars": 2137572,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 37,
+        "profesion": "Contador",
+        "salario_ars": 1493380,
+        "esta_jubilado": false
+    },
+    {
+        "nombre": "Matias",
+        "edad": 69,
+        "profesion": "Jubilado",
+        "salario_ars": 462376,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Carlos",
+        "edad": 74,
+        "profesion": "Jubilado",
+        "salario_ars": 495648,
+        "esta_jubilado": true
+    },
+    {
+        "nombre": "Sofi",
+        "edad": 53,
+        "profesion": "Contador",
+        "salario_ars": 1029678,
+        "esta_jubilado": false
     },
     {
         "nombre": "Elena",
-        "edad": 44
+        "edad": 53,
+        "profesion": "Docente",
+        "salario_ars": 1937108,
+        "esta_jubilado": false
     },
     {
-        "nombre": "David",
-        "edad": 55
+        "nombre": "Bruna",
+        "edad": 55,
+        "profesion": "Comerciante",
+        "salario_ars": 1657805,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 45
-    },
-    {
-        "nombre": "Ana",
-        "edad": 34
-    },
-    {
-        "nombre": "David",
-        "edad": 61
-    },
-    {
-        "nombre": "David",
-        "edad": 45
-    },
-    {
-        "nombre": "David",
-        "edad": 31
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 19
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 21
-    },
-    {
-        "nombre": "Ana",
-        "edad": 58
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 53
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 40
-    },
-    {
-        "nombre": "David",
-        "edad": 56
-    },
-    {
-        "nombre": "Carlos",
-        "edad": 62
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 41
-    },
-    {
-        "nombre": "David",
-        "edad": 37
+        "nombre": "Matias",
+        "edad": 21,
+        "profesion": "Docente",
+        "salario_ars": 1044882,
+        "esta_jubilado": false
     },
     {
         "nombre": "Elena",
-        "edad": 34
+        "edad": 46,
+        "profesion": "Contador",
+        "salario_ars": 1189341,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Carlos",
-        "edad": 31
+        "nombre": "Matias",
+        "edad": 44,
+        "profesion": "Comerciante",
+        "salario_ars": 1655986,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Ana",
-        "edad": 36
+        "nombre": "Matias",
+        "edad": 47,
+        "profesion": "Docente",
+        "salario_ars": 2367959,
+        "esta_jubilado": false
     },
     {
-        "nombre": "Ana",
-        "edad": 58
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 34
-    },
-    {
-        "nombre": "Ana",
-        "edad": 21
-    },
-    {
-        "nombre": "Elena",
-        "edad": 50
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 54
-    },
-    {
-        "nombre": "David",
-        "edad": 39
+        "nombre": "Bruna",
+        "edad": 64,
+        "profesion": "Contador",
+        "salario_ars": 2416511,
+        "esta_jubilado": false
     },
     {
         "nombre": "Beatriz",
-        "edad": 49
-    },
-    {
-        "nombre": "David",
-        "edad": 56
-    },
-    {
-        "nombre": "Beatriz",
-        "edad": 52
+        "edad": 49,
+        "profesion": "Comerciante",
+        "salario_ars": 1245748,
+        "esta_jubilado": false
     }
 ]
